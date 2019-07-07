@@ -1,0 +1,406 @@
+#EXTM3U
+#PLAYLISTV: pltv-logo="https://raw.githubusercontent.com/ixkaito/lightning-talk-logo/master/lt-logo-icon-500x500.png" pltv-description="LISTA DOS CANAIS ATUAIS" pltv-cover="http://adaptanddesign.com/wp-content/uploads/2014/09/ideation1.png" pltv-author="RODRIGUES DIGITAL" pltv-site="XXXXXX" pltv-email="XXXXXX"
+
+#EXTINF:0,TV GAZETA SP
+http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
+
+#EXTINF:0,REDE FAMÍLIA
+https://redefamilia.opic.live/playlist.m3u8
+
+#EXTINF:0,REDE SÉCULO 21
+http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/index_1200_av-p.m3u8
+
+#EXTINF:0,STZ TV
+http://pge0907stz35.nethorizontes.tv:1935/pge0907stz35/stzwebtv/live.m3u8
+
+#EXTINF:-1, THATHI TV RP
+http://opic.live:1935/thathi-net/content/playlist.m3u8
+
+#EXTINF:-1, THATHI TV RP2
+http://opic.live:1935/thathi-net/content/chunklist_w1525936506.m3u8
+
+#EXTINF:-1, THATHI FM
+http://opic.live:1935/thathi-video/content/playlist.m3u8
+
+#EXTINF:-1, CBN RIBEIRÃO
+https://rtmp.cdn.upx.net.br/5584_1/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1, RADIO 106 SERTANEJA RIBEIRAO PRETO
+https://rtmp.cdn.upx.net.br/2384/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1, RADIO CLUBE RIBEIRAO PRETO
+http://rtmp.cdn.upx.net.br/5e5c_5/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1, TV RP - RIBEIRAO PRETO
+https://5b7f3c45ab7c2.streamlock.net:443/8042/8042/playlist.m3u8
+
+#EXTINF:-1, JM FM UBERABA MG
+http://209.126.127.101:1935/jmonline/jmonline/chunklist_w197339927.m3u8
+
+#EXTINF:-1, TV ONIX SAO CARLOS
+http://stmv3.painelcast.com/sergio7938/sergio7938/playlist.m3u8
+
+#EXTINF:0,TV JORNAL LIMEIRA
+http://flash1.crossdigital.com.br:1935/1998/1998/live.m3u8
+
+#EXTINF:0,ALL TV
+https://cdn.jmvstream.com/w/infiniti/_definst_/infiniti/playlist.m3u8
+
+#EXTINF:-1, SMART TV OSASCO
+https://cdn.jmvstream.com/live/hls/lv_5544/LV5544_Mqv74CR3Ma.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="",CANAL 8 CAMPINAS
+http://stmv2.conectastm.com/matheus3411/matheus3411/playlist.m3u8
+
+#EXTINF:-1, TV UNIÃO - SÃO JOÃO DA BOA VISTA - SP
+http://rtmp.cdn.upx.net.br/cf59/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1, SBT RIO PRETO - SP
+https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8
+
+#EXTINF:0,SESC TV
+http://api.new.livestream.com:80/accounts/16991778/events/6670101/live.m3u8
+
+#EXTINF:0,TV SERRAZUL
+http://stmv2.euroti.com.br:1935/tvserrazuladm/tvserrazuladm/live.m3u8
+
+#EXTINF:0,TV TEEN NET
+http://stmv2.euroti.com.br:1935/tvteennet/tvteennet/live.m3u8
+
+#EXTINF:0,TV DAS ARTES
+http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/live.m3u8
+
+#EXTINF:0,TV PREVE BAURU
+https://5b7f3c45ab7c2.streamlock.net/8028/smil:8028.smil/playlist.m3u8
+
+#EXTINF:0,TV APARECIDA
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
+
+#EXTINF:0,ALPHA CHANNEL
+http://streamingbr.com:1935/st87-live/st87-live/livestream.m3u8
+
+#EXTINF:0,CENTRAL TV
+http://tv02.logicahost.com.br:1935/rbt01/rbt01/live.m3u8
+
+#EXTINF:0,CANAL 25 JUNDIAI
+http://stream01.msolutionbrasil.com.br:80/hls/canal25/live.m3u8
+
+#EXTINF:0, CATVE HD PR
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="",TV CULTURA VALE DO ACO
+http://video.worldcdn.net:80/225258133/tvculturavaledoaco.m3u8
+
+#EXTINF:0,CANCAO NOVA HD
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
+
+#EXTINF:0,CARIOCA TV
+http://tv02.logicahost.com.br:1935/cariocainterativo/cariocainterativo/live.m3u8
+
+#EXTINF:-1, CONECT TV OSASCO
+http://stream02.msolutionbrasil.com.br:1935/conectv/live/playlist.m3u8
+
+#EXTINF:0,GEN TV
+http://wse5.player.tv.br:1935/evento1/evento1_720p/live.m3u8
+
+#EXTINF:0,ITU TV
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
+
+#EXTINF:-1, JOVEM PAN TV
+https://evpp.mm.uol.com.br/jovempan/tv-jp.sdp/playlist.m3u8
+
+#EXTINF:0,MKK WEB TV SP
+http://wse01.logicahost.com.br:1935/mkkweb/mkkweb/playlist.m3u8
+
+#EXTINF:0,NOVA ERA TV
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+
+#EXTINF:0,REDE ATIVIDADE
+http://tv01.logicahost.com.br:1935/redeatividade/redeatividade/live.m3u8
+
+#EXTINF:0,REDE Brasil
+http://tv01.logicahost.com.br:1935/rbtv/rbtv/playlist.m3u8
+
+#EXTINF:0,REDE RC
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
+
+#EXTINF:0,REDE GOSPEL	
+http://media.igospel.com.br:1935/live/redegospel/playlist.m3u8
+
+#EXTINF:0,REDE MAO AMIGA
+http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
+
+#EXTINF:0,REDE SUPER
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
+
+#EXTINF:0,SBT VALE
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+
+#EXTINF:0,SBT RS
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
+#EXTINF:0,TOP TV
+http://stmv3.euroti.com.br:1935/toptv/toptv/live.m3u8
+
+#EXTINF:0,TRANSAMERICA SP
+http://transamerica.crossdigital.com.br:1935/transasp02edge/transasp02/playlist.m3u8
+
+#EXTINF:0,TV CANDIDES MG
+https://cdn.jmvstream.com/live/hls/lv_6453_transcoder/LV6453_bXZTxrPxqo.m3u8
+
+#EXTINF:0,TV ALVORADA ESPÍRITA
+http://78.46.36.212:1935/tvalvorada/tvalvorada/live.m3u8
+
+#EXTINF:0,TV ANDRADAS
+http://caikron.com.br:1935/tvandradas/antv.stream/live.m3u8
+
+#EXTINF:-1, TV ASSEMBLEIA SP
+http://srv3.zoeweb.tv:1935/z93-live/stream/livestream.m3u8
+
+#EXTINF:-1, TV CLARET RIO CLARO SP
+http://rtmp.cdn.upx.net.br/5ec3_2/myStream.sdp/playlist.m3u8
+
+#EXTINF:0,TV CAPITAL 777 LUCELIA
+http://tv02.logicahost.com.br:1935/tvcapital/tvcapital/live.m3u8
+
+#EXTINF:0,TV CATOLIC
+http://stmv2.euroti.com.br:1935/tvcatolic/tvcatolic/live.m3u8
+
+#EXTINF:0,TV CAXIAS
+http://stmv1.euroti.com.br:1935/caxiashost/caxiashost/live.m3u8
+
+#EXTINF:0,TV CIDADE BRUSQUE
+http://179.107.83.10:1935/live/tvcidadeaovivo_1/livestream.m3u8
+
+#EXTINF:0,TV CIDADE JACAREI
+http://209.126.127.101:1935/tvcidade/tvcidade/live.m3u8
+
+#EXTINF:0,TV CIDADE TERESOPOLIS
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/live.m3u8
+
+#EXTINF:0,TV CIDADE VERDE
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",TV Cidade Teresopolis
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/live.m3u8
+
+#EXTINF:0,TV CINEC
+http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
+	
+#EXTINF:0,TV Cultura GO
+http://rsync.com.br:1935/rsync00026/rsync.sdp/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="",TV CULTURA PAULISTA
+http://177.74.1.38:80/funtelpa/tv_funtelpa/live.m3u8
+
+#EXTINF:0,TV DA CIDADE JOINVILLE
+http://wse3.player.tv.br:1935/tvdacidade/tvdacidade/live.m3u8
+ 
+#EXTINF:0,TV DESTAK
+http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
+
+#EXTINF:0,TV DIARIO DE CAMPOS
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8
+
+#EXTINF:0,TV DIGITAL BIRIGUI
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+
+#EXTINF:0,TV EVANGELIZAR
+http://tvevangelizar01.crossdigital.com.br/evangelizar/tv/playlist.m3u8
+
+#EXTINF:0,TV FAAP HD
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+
+#EXTINF:0,TV FLORIPA
+http://11.fm5.com.br:1935/tvfloripa/tvfloripa/live.m3u8
+
+#EXTINF:0,TV FORA DO CANAL
+http://webtv-completa.biz:1935/tvforadocanal/tvforadocanal/live.m3u8
+
+#EXTINF:0,TV FUTURA PR
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
+
+#EXTINF:-1, TV GALEGA SC
+https://cdn.jmvstream.com/live/hls/lv_769/LV769_GdOsetvPVQ.m3u8
+
+#EXTINF:0,TV GAZETA AC
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+
+#EXTINF:0,TV GAZETA ES
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+
+#EXTINF:0,TV GAZETA MA
+http://stmv3.pagehost.com.br/wagner7534/wagner7534/playlist.m3u8
+
+#EXTINF:0,TV GERAL
+http://s1.wsepanel.com:1935/tvgeral/tvgeral/live.m3u8
+
+#EXTINF:0,TV GUARANY
+http://wsecast.com.br:1935/rtguarany/rtguarany/live.m3u8
+
+#EXTINF:-1, TV GUARULHOS SP
+http://stream19.streamingdevideo.com.br:1935/tvguarulhos/tvguarulhos/playlist.m3u8
+
+#EXTINF:0,TV IMACULADA MS
+http://69.46.0.170:1935/ric_tvimaculada/ric.stream/chunklist_w845822106.m3u8 
+
+#EXTINF:-1, TV INTERNAUTA SP
+http://stmv1.srvsite.com/luisbaptista343/luisbaptista343/playlist.m3u8
+
+#EXTINF:0,TV ITAPETININGA
+http://stream02.msolutionbrasil.com.br:1935/tvitape/tvitape/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvjapi.png" group-title="WEBTV",TV Japi
+http://wse3.player.tv.br:1935/tvjapi/tvjapi/playlist.m3u8
+
+#EXTINF:0,TV LITORAL SUL
+http://cdn2.w7virtual.net:1935/live/canal20/canal20/livestream.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="",TV MACEIO AL
+http://173.236.10.10:1935/toptv/toptv/chunklist_w489594769.m3u8
+
+#EXTINF:0,TV MAIS CANEDO
+http://tv01.logicahost.com.br:1935/maxjalles/maxjalles/live.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="",TVN BRASILIA
+http://wz6.dnip.com.br:1935/tvnbrasil/tvnbrasil.sdp/chunklist_w117160217.m3u8
+	
+#EXTINF:0 tvg-logo="" group-title="",TV SANTA CECILIA
+http://flash1.crossdigital.com.br:1935/2063/2063/chunklist_w1669710012.m3u8 
+
+#EXTINF:-1, TV UAI UBA MG
+http://tv01.logicahost.com.br:1935/tvuai/tvuai/live.m3u8
+
+#EXTINF:0,TV UNIVERSITARIA
+http://150.161.93.173:80/hls/720/index.m3u8
+
+#EXTINF:0,TV VICOSA
+http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/chunklist.m3u8
+
+#EXTINF:0,TV VITORIA
+http://tvvitoria.viacast.tv:80/livepl/tvvitoria_2_original.m3u8
+
+#EXTINF:0,TV TRANSAMERICA
+http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/live.m3u8
+
+#EXTINF:0,TV ZOOM
+https://cdn.jmvstream.com/live/hls/lv_751/LV751_rdDjSLQZp6.m3u8
+
+#EXTINF:-1, CBN ESTUDIO AO VIVO SP
+http://media.sgr.globo.com:1935/VideoCBN/cbnsp1.sdp/live.m3u8
+
+#EXTINF:-1, SUMMER TV BERTIOGA
+http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w867123287.m3u8
+
+#EXTINF:-1, NOVA TV VALE SP
+https://5b7f3c45ab7c2.streamlock.net:443/8016/8016/playlist.m3u8
+
+#EXTINF:-1, TV A CAMINHO DA LUZ
+http://wse01.logicahost.com.br:1935/tvacaminhodaluz/_definst_/tvacaminhodaluz/chunklist_w276258507.m3u8
+
+#EXTINF:-1, WEB TV NOVA PARAIBA
+http://stmv1.sejaguia.com.br/tv487/tv487/playlist.m3u8?wowzasessionid=1036199235
+
+#EXTINF:-1, TV PRODUTO
+https://v7.ciclano.io:1443/tvproduto/_definst_/tvproduto/playlist.m3u8
+
+#EXTINF:-1, TV SETE LAGOAS MG
+http://wz4.dnip.com.br/tvsetelagoas/tvsetelagoas.sdp/chunklist_w1757854732.m3u8
+
+#EXTINF:-1, TV CIDADE LIVRE RIO CLARO
+http://tvcidadelivre.com.br/live/tvcl.m3u8
+
+#EXTINF:-1, G2P TV
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/chunklist_w2087672219.m3u8
+
+#EXTINF:-1, VIN TV - MG
+https://5b7f3c45ab7c2.streamlock.net/8044/ngrp:8044_all/playlist.m3u8
+
+#EXTINF:-1, TV UNIVERSAL
+https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8
+
+#EXTINF:-1, SANTUARIO APARECIDA DO NORTE SP
+http://69.46.0.170:1935/santuario_aparecida/canal5.stream/live.m3u8
+
+#EXTINF:-1, Tv Metropolitana Rio Ao Vivo
+https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/playlist.m3u8
+
+#EXTINF:-1, RADIO GAZETA ORLANDIA
+http://stmv4.conectastm.com/thiago4250/thiago4250/playlist.m3u8
+
+#EXTINF:-1, ISTV SP
+https://cdn.jmvstream.com/w/oscarito/_definst_/oscarito/playlist.m3u8
+
+#EXTINF:-1, RADIO CLUBE ARARAS - SP
+http://62.138.8.15:1935/radioclube/radioclube/chunklist_w558620695.m3u8
+
+#EXTINF:-1, TV CHANNEL - SP
+http://tvchannel.videovox.pw/alexandre5751/alexandre5751/playlist.m3u8?wowzasessionid=1272617018
+
+#EXTINF:-1, RADIO MUNDIAL - SP
+http://radiomundial.crossdigital.com.br/radiomundial/mundial.stream/chunklist_w1571784792.m3u8
+
+#EXTINF:-1, SEVEN TV MG
+http://streaming.seventv.com.br:8080/hls/5409f4122dec8f6cd52764acc2a99b1d.m3u8
+
+#EXTINF:-1, TVBE - SC
+http://cdn.jmvstream.com/live/hls/lv_483/LV483_94sbsyJ6cF.m3u8
+
+#EXTINF:-1, TV CLIC BRASIL - SP
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692604/master.m3u8
+
+#EXTINF:-1, LBCTV - SP
+https://v7.ciclano.io:1443/lbctv/_definst_/lbctv/playlist.m3u8
+
+#EXTINF:-1, TV OPCAO - RJ
+https://cdn.jmvstream.com/live/hls/lv_1227/LV1227_nfB8txwI7j.m3u8
+
+#EXTINF:-1, TV COM SANTOS
+https://cdn.jmvstream.com/live/hls/lv_566/LV566_oubev6Pcf0.m3u8
+
+#EXTINF:-1, TV GUARUJÁ
+https://59e4b6c1beddc.streamlock.net:443/8138/8138/playlist.m3u8
+
+#EXTINF:-1, TV PARANAIBA - MG
+http://live.tvparanaiba.com.br/live/tv/index.m3u8
+
+#EXTINF:-1, CANAL DE SAO PAULO - SP
+http://stream02.msolutionbrasil.com.br:1935/canaldesaopaulo/live/playlist.m3u8
+
+#EXTINF:-1, TV MOL MATAO - SP
+https://5abdf4edae5bf.streamlock.net/tvmoltvstation/tvmoltvstation/playlist.m3u8
+
+#EXTINF:-1, TV BUZIOS - RJ
+https://5cc00ac6defaf.streamlock.net:1443/buziostv965/_definst_/buziostv965/playlist.m3u8
+
+#EXTINF:-1, TV LITORAL - RJ
+https://cdn.jmvstream.com/live/hls/lv_7612/LV7612_1j0ubcRkbm.m3u8
+
+#EXTINF:-1, CANAL TV RIO - RJ
+https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio/playlist.m3u8
+
+#EXTINF:-1, TERÊ TV - RJ
+https://5b7f3c45ab7c2.streamlock.net/8158/8158/playlist.m3u8
+
+#EXTINF:-1, TV POÇOS - MG
+https://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1, TV WEB FRUTAL - MG
+https://flash1.hospedemax.com.br:8012/tvwebfrutal/live.m3u8
+
+#EXTINF:-1, TV COM DF - DF 
+https://5b7f3c45ab7c2.streamlock.net/8008/ngrp:8008_all/playlist.m3u8
+
+#EXTINF:-1, GOSTEI GOSPEL TV - SP 
+https://59f1cbe63db89.streamlock.net:1443/redegostei/redegostei/playlist.m3u8
+
+#EXTINF:-1, TV UNIÃO - RN 
+http://198.27.80.131/tvu/tvu/playlist.m3u8
+
+#EXTINF:-1, VIVA WEB TV - SP 
+http://video01.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8
+
+#EXTINF:-1, REDE NGT - SP 
+httpS://596639ebdd89b.streamlock.net:443/8108/8108/playlist.m3u8
+
+
